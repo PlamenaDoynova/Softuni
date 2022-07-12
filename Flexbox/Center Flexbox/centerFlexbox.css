@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    
+}
+body {
+  background-color: rgb(238, 238, 238);
+  display: flex;
+  justify-content: center;
+  
+  
+}
+.card {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 4px 18px 3px rgba(0,0,0,0.65);
+}
